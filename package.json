@@ -1,0 +1,7 @@
+{
+  "name": "quil-cljs",
+  "devDependencies": {
+    "p5": "^1.4.0",
+    "shadow-cljs": "^2.15.12"
+  }
+}

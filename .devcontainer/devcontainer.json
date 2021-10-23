@@ -1,0 +1,11 @@
+{
+    "name": "quil-cljs",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "..",
+    },
+    "extensions": [
+        "betterthantomorrow.calva"
+    ],
+    "forwardPorts": [8020]
+}
